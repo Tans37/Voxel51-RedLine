@@ -1,0 +1,13 @@
+names:
+- danger
+- rail
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: traintracks
+  url: https://universe.roboflow.com/traintrackproject/traintracks/dataset/4
+  version: 4
+  workspace: traintrackproject
+test: test/images
+train: train/images
+val: valid/images

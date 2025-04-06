@@ -1,0 +1,13 @@
+names:
+- track
+- person
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: railway-tracks-tpu61-mv0ja
+  url: https://universe.roboflow.com/y0/railway-tracks-tpu61-mv0ja/dataset/1
+  version: 1
+  workspace: y0
+test: ../test/images
+train: ../train/images
+val: ../valid/images
